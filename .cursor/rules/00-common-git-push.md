@@ -1,0 +1,1 @@
+/home/hirosh7/projects/cursor-rules/common/.cursor/rules/00-common-git-push.md

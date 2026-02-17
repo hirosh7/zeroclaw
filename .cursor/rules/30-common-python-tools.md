@@ -1,0 +1,1 @@
+/home/hirosh7/projects/cursor-rules/common/.cursor/rules/30-common-python-tools.md

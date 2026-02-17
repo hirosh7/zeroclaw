@@ -1,0 +1,1 @@
+/home/hirosh7/projects/cursor-rules/home/.cursor/rules/50-home-issue-ticket-routing.md
