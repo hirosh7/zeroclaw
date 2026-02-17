@@ -6,3 +6,5 @@ firmware/*/target
 .wt-pr37/
 .env
 .specstory
+.cursor/rules/derived-cursor-rules.mdc
+settings.json
